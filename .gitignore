@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/.yfinance_cache/
+data/fixed_income/*.sqlite*
+data/fixed_income/live_quotes.csv
+data/fixed_income/live_analytics.csv
+data/fixed_income/live_errors.csv
+data/fixed_income/live_report.json
